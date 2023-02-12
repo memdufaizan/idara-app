@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.25488672.js",
-    "index.html": "/index.html",
-    "main.25488672.js.map": "/static/js/main.25488672.js.map"
+    "main.js": "/idara-app/static/js/main.25488672.js",
+    "index.html": "/idara-app/index.html",
+    "main.25488672.js.map": "/idara-app/static/js/main.25488672.js.map"
   },
   "entrypoints": [
     "static/js/main.25488672.js"
