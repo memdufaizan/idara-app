@@ -5,6 +5,6 @@
     "main.25488672.js.map": "/idara-app/static/js/main.25488672.js.map"
   },
   "entrypoints": [
-    "static/js/main.25488672.js"
+    "/idara-app/static/js/main.25488672.js"
   ]
 }
